@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href="project.css">
+  <title>samsung galaxy</title>
+ </head>
+ <body>
+ <div id="border1">
+ <div id="border2">
+ <div id="react1"></div>
+
+ 
+ <div id="circle1"></div>
+ <div id="circle2"></div>
+ <div id="picture" src="https://assets.turbologo.com/blog/en/2019/07/19085113/samsung-logo-2015.jpg"  height="20px" width="60px"></div>
+ 
+ 
+ </div>
+
+
+ <div id="react2">
+
+   <div id="react_button"></div>
+   <div id="icon1"></div>
+   <div id="icon1_2"></div>
+   <div id="icon2"></div>
+   <div id="arrow"></div>
+
+</div>
+</div>
+
+
+
+<div id="button1"></div>
+<div id="button2"></div>
+<div id="button3"></div>
+
+
+
+<iframe id="iframe"
+  src= "https://www.google.com/search?igu=1" width="40%" height="40%" frameborder="0">
+
+
+
+
+</iframe>
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+  
+ </body>
+</html>
